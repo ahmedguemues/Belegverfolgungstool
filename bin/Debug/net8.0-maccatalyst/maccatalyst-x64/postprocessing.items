@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="BelegverfolgungTool.app/Contents/MacOS/BelegverfolgungTool">
+      <BCSymbolMapName>BelegverfolgungTool.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>BelegverfolgungTool.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/test/Projekte/BelegverfolgungTool/obj/Debug/net8.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>BelegverfolgungTool.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/test/Projekte/BelegverfolgungTool</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
