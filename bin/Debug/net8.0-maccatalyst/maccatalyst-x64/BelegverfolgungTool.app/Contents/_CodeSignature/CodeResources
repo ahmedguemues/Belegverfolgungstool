@@ -12,6 +12,10 @@
 		<data>
 		fjVkWPcEn5hyoGxG/zT3zjZS1io=
 		</data>
+		<key>Resources/MauiInfo.plist</key>
+		<data>
+		iEtuUGCV6JM3gxS/pO33swhmpp8=
+		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
 		oowkf1sL6T19nanXUObgmuayWqM=
@@ -47,14 +51,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			f6GhyYYYVkjPwGCqIviLIYoXVDB6Z3DZfgfi//0bkcA=
+			5CSb0XUzNQrAv+KHc9qHynivF7GSm5ef+ivVBFwQZpI=
 			</data>
 		</dict>
 		<key>MonoBundle/BelegverfolgungTool.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1SEpxcqtiN0rz7mZHHPNUDlzXzEh1FF2vbGNWV7Q3zg=
+			uZ5mi2XQOFCqDEmTjyCFsWQGcIQS5WaWMNwCZr3OX9Q=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -148,6 +152,13 @@
 			YJ4fJm7WmGSrbBqVjaFNTOYBcPQ/bWI8s0zmiXSgpvk=
 			</data>
 		</dict>
+		<key>MonoBundle/Microsoft.Maui.Controls.HotReload.Forms.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eGW+6TE05NiDuXy+e4lSy0eq1dZiyTTZgc0rYsdtaug=
+			</data>
+		</dict>
 		<key>MonoBundle/Microsoft.Maui.Controls.Xaml.dll</key>
 		<dict>
 			<key>hash2</key>
@@ -195,6 +206,20 @@
 			<key>hash2</key>
 			<data>
 			cdnxMR++gMGM9JlL1SQFLDF4YTVveQAjARdJlfPaZ6M=
+			</data>
+		</dict>
+		<key>MonoBundle/Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uiRB6Th+nXq1oZlSXx5IYlOr0Dr3CEvdj6c2CWYzIV0=
+			</data>
+		</dict>
+		<key>MonoBundle/Microsoft.VisualStudio.DesignTools.TapContract.dll</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vXV/h1sI2uEWTjPSKQWMBm6+p2dWxKQS+AuV+PyshaY=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.Win32.Primitives.dll</key>
@@ -1623,6 +1648,13 @@
 			<key>hash2</key>
 			<data>
 			EE2/LNSh/4+U1DhVcUXs1wVA6d29QWU+ubIfjhb7Gp4=
+			</data>
+		</dict>
+		<key>Resources/MauiInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tx0KXqEC+DvcCGyogQTEQWHcCWJYYqH24NtPwhpQEjo=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>

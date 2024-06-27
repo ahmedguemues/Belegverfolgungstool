@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BelegverfolgungTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+a52fa9fa0225623ab4aa5c21b353f083bfa3d5bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BelegverfolgungTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BelegverfolgungTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
